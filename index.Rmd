@@ -1,0 +1,8 @@
+---
+title: "My Website"
+---
+
+Hello, Website!
+
+## Simple Example
+To start with let’s walk through a very simple example, a website that includes two pages (Home and About) and a navigation bar to switch between them:

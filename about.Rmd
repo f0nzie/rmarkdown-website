@@ -1,0 +1,11 @@
+---
+title: "About This Website"
+---
+
+More about this website.
+
+Note that the minimum requirement for any website is that it have an index.Rmd file as well as a _site.yml file.
+
+## Side by Side Preview
+
+When working iteratively on a page you might find it more convenient to preview it side-by-side with the editor rather than in an external window.
